@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-8e1d6a88ef7019a57004d640ed957b3aca0e7645.jar" />
+    </item>
+    <item
+        jar="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-49d7d654d032dee95dadce06ff6c4bf68a4558e3.jar" />
+    </item>
+    <item
+        jar="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-84d53aca151fecaa6290b6fbfa414595c5dc6740.jar" />
+    </item>
+    <item
+        jar="/Users/gorro/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.1.0/d51280dbb4e8539f6c3f369d516edc26f9d89d31/okhttp-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.1.0-4f4d75c4d9a3db948d4eee211deb9ac842631adc.jar" />
+    </item>
+    <item
+        jar="/Users/gorro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-f017d01395523adf26978f1630761e457810f648.jar" />
+    </item>
+    <item
+        jar="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-bcf38872c45d412f3d4319494673c51e9b091d7d.jar" />
+    </item>
+    <item
+        jar="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-59e209aa95e5acd406c84f76bca18ae753f5ccdf.jar" />
+    </item>
+    <item
+        jar="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-492afe28c1ece19b12da6e10ff48ca22a537b81a.jar" />
+    </item>
+    <item
+        jar="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-79989e5bb4a98955be778a341a325ac8a9273ebe.jar" />
+    </item>
+    <item
+        jar="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-84d53aca151fecaa6290b6fbfa414595c5dc6740.jar" />
+    </item>
+    <item
+        jar="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-69b9cc1d0b29a43d0835ce348356ee65223c9636.jar" />
+    </item>
+    <item
+        jar="/Users/gorro/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.1.0/d51280dbb4e8539f6c3f369d516edc26f9d89d31/okhttp-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.1.0-4f4d75c4d9a3db948d4eee211deb9ac842631adc.jar" />
+    </item>
+    <item
+        jar="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a527cd5d9aa10f1a387cbd1c4c426fff5022a376">
+        <dex dex="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-2f846f72e9fadd4f0b48eb2935da3f45bcc73588.jar" />
+    </item>
+    <item
+        jar="/Users/gorro/.gradle/caches/modules-2/files-2.1/com.flaviofaria/kenburnsview/1.0.6/65dcd9c03096b73f4740d63cf93d30a692fe52b5/kenburnsview-1.0.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65dcd9c03096b73f4740d63cf93d30a692fe52b5">
+        <dex dex="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/kenburnsview-1.0.6-dffe1095ade01566ed68d873714c93cc6b78c5a6.jar" />
+    </item>
+    <item
+        jar="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/gorro/Documents/AndroidNanodegree/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-4d0fe03aa50ca6a106d49f0b3f716b8719637932.jar" />
+    </item>
+
+</items>
